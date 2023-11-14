@@ -1,7 +1,7 @@
 # SimpleText@CLEF-2024 Contacts
 
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
+[Home](./) | [Call for papers](../CFP.md) | [Important dates](../dates.md) | [Tasks](../tasks.md)  | [Tools](../tools.md) | 
+[Program](../program.md) | [Publications](../publications.md) | [Organizers](../organizers.md) | [Contact](../contact.md) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
 
 ---
 
