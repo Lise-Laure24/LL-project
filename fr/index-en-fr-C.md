@@ -15,10 +15,10 @@ Le grand public a tendance à éviter les sources fiables telles que la littéra
 La piste comporte les quatre tâches concrètes suivantes.
  
 ## [Tâches](./tasks)
-- [Tâche 1](./tasks): Qu'est-ce qui entre (ou sort) ? Sélection des passages à inclure dans un résumé simplifié.
-- Tâche 2 : Qu'est-ce qui n'est pas clair ? Identification et explication de concepts difficiles (définitions, décryptage d'abréviations, contexte, applications,...).
-- Tâche 3 : Réécrivez ceci ! A partir d'une requête, simplifier des passages de résumés scientifiques.
-- Tâche 4 : SOTA ? À partir d'un article sur l'IA faisant état des performances d'un modèle sur des ensembles de données de référence, extraire toutes les informations connexes (tâche, ensemble de données, métrique, score).
+- [Tâche 1](../fr/tasks-en-fr-C.md) : Qu'est-ce qui entre (ou sort) ? Sélection des passages à inclure dans un résumé simplifié.
+- [Tâche 2](../fr/tasks-en-fr-C.md) : Qu'est-ce qui n'est pas clair ? Identification et explication de concepts difficiles (définitions, décryptage d'abréviations, contexte, applications,...).
+- [Tâche 3](../fr/tasks-en-fr-C.md) : Réécrivez ceci ! A partir d'une requête, simplifier des passages de résumés scientifiques.
+- [Tâche 4](../fr/tasks-en-fr-C.md) : SOTA ? À partir d'un article sur l'IA faisant état des performances d'un modèle sur des ensembles de données de référence, extraire toutes les informations connexes (tâche, ensemble de données, métrique, score).
 
 ## Comment participer
 Pour participer, il faut s'inscrire sur le site de la CLEF. L'inscription est ouverte le 13 novembre 2023.
