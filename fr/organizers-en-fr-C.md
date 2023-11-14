@@ -1,6 +1,6 @@
 # Organisateurs de SimpleText@CLEF-2024
 
-Accueil | Appel à communications | Dates importantes | Tâches | Outils | Programme | Publications | Organisateurs | Contact | CLEF-2023
+Accueil | Appel à communications | Dates importantes | Tâches | Outils | Programme | Publications | [Organisateurs](./fr/organizers-en-fr-C.md) | Contact | CLEF-2023
 
 ---
 
