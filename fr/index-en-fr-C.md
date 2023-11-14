@@ -21,15 +21,15 @@ La piste comporte les quatre tâches concrètes suivantes.
 - [Tâche 4](../fr/tasks-en-fr-C.md) : SOTA ? À partir d'un article sur l'IA faisant état des performances d'un modèle sur des ensembles de données de référence, extraire toutes les informations connexes (tâche, ensemble de données, métrique, score).
 
 ## Comment participer
-Pour participer, il faut s'inscrire sur le site de la CLEF. L'inscription est ouverte le 13 novembre 2023.
+Pour participer, il faut s'inscrire sur le site de la [CLEF](https://clef2024.clef-initiative.eu/index.php). L'inscription est ouverte le 13 novembre 2023.
 
-Tous les membres de l'équipe doivent s'inscrire à la liste de diffusion SimpleText : https://groups.google.com/g/simpletext. 
+Tous les membres de l'équipe doivent s'inscrire à la liste de diffusion SimpleText : [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
 
 Les données seront mises à la disposition de tous les participants inscrits.
 
 ## Remerciements  
 
-SimpleText est soutenu par le réseau de recherche français sur le Big Data - Data Science MADICS. Cette recherche a été financée, en tout ou en partie, par l'Agence nationale de la recherche (ANR) dans le cadre du projet ANR-22-CE23-0019-01.
+SimpleText est soutenu par le réseau de recherche français sur le Big Data - Data Science MADICS. Cette recherche a été financée, en tout ou en partie, par l'Agence nationale de la recherche (ANR) dans le cadre du projet [ANR-22-CE23-0019-01](https://anr.fr/Project-ANR-22-CE23-0019).
 
 ## Références  
 
